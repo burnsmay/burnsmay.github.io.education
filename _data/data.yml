@@ -36,50 +36,22 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
-    #interests:
-    #  title: Interests
-     # info:
-     #   - item: Climbing
-      #    link:
-
-      #  - item: Snowboarding
-      #    link:
-
-      #  - item: Cooking
-      #    link:
-
 
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: BSc in Computer Science
+        university: Michigan State University
+        time: 2022 - Present
+        
+      - degree: Associate of Science
+        university: North Central Michigan College
+        time: 2022 - 2024
+        
+      - degree: High School Diploma
+        university: Harbor Springs High School
+        time: 2018 - 2022
+
 
 
 footer: >
