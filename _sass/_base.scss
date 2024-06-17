@@ -205,14 +205,14 @@ p {
     position: absolute;
     right: 0;
     top: 0;
-    color: $text-grey;
+    color: darken($text-grey, 20%);
     flex: 25%;
   }
   .company,
   .university,
   .cert-org {
     margin-bottom: 10px;
-    color: darken($text-grey, 15%);
+    color: darken($text-grey, 20%);
   }
 
   .project-title {
