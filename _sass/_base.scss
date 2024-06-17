@@ -212,7 +212,7 @@ p {
   .university,
   .cert-org {
     margin-bottom: 10px;
-    color: $text-grey;
+    color: darken($text-grey, 15%);
   }
 
   .project-title {
